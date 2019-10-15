@@ -1,5 +1,5 @@
 /**
- * @file Exports for DestinyAPI.js
+ * @file Exports for BungieNet.js
  * @module src/bungie
  * @requires axios
  * @requires src/users
@@ -10,7 +10,7 @@ const Users = require('./users')
 const Group = require('./group')
 
 /**
- * DestinyAPI.js Constructor
+ * BungieNet.js Constructor
  * 
  * @constructor
  * @param {String} key The API Key from Bungie.net
