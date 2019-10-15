@@ -1,4 +1,4 @@
-# DestinyAPI.js
+# BungieNet.js
 
 ## Example
 

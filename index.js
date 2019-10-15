@@ -1,5 +1,5 @@
 /**
- * @file BungieNET.js
+ * @file BungieNet.js
  * @description A promise-based Node.js library for the Bungie.net Platform API
  * @copyright Copyright(c) 2017 Filipe 'Nelen' Neves <me@filipeneves.net>
  * @license MIT
