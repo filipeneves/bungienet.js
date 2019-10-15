@@ -67,7 +67,7 @@ Bungie.prototype.post = function post(path, data) {
             'X-API-Key': this.key,
             'User-Agent': `Node.js/${process.versions.node} DestinyAPI.js/1.0`
         },
-        data: args
+        data: data
     })
 }
 
