@@ -1,5 +1,5 @@
 {
-  "name": "destinyapi.js",
+  "name": "bungienet.js",
   "version": "1.0.0",
   "description": "A promise-based Node.js library for the Bungie/Destiny 2 API.",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/filipeneves/DestinyAPI.js.git"
+    "url": "git+https://github.com/filipeneves/bungienet.js.git"
   },
   "keywords": [
     "destiny",
