@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/filipeneves/bungienet.js/badge)](https://www.codefactor.io/repository/github/filipeneves/bungienet.js)
+
 # BungieNet.js
 
 ## Example
